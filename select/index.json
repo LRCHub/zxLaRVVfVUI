@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "睡魔 [yuigot REMIX]（feat. Ayase、yuigot）",
+  "base_artist": "缶缶",
+  "createdAt": "2026-03-14T17:17:54.658124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "睡魔",
+      "artist": "缶缶 & Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_睡魔_缶缶_&_Ayase.txt"
+    }
+  ]
+}
